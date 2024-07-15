@@ -1,0 +1,356 @@
+[
+    {
+      "id": "84e96018-4022-434e-80bf-000ce4cd12b8",
+      "title": "JUMPING JACKS",
+      "club": "Nourish Her Club",
+      "image": "https://img.freepik.com/free-photo/full-shot-woman-training-gym_23-2149445911.jpg?t=st=1720000654~exp=1720004254~hmac=407b801edb08faa7a754c05bf54e965133b639195387b40699b5f384545e19cb&w=740",
+      "description": "Jumping jacks offer a full-body workout, engaging major muscles to improve mobility, coordination, and hip strength—ideal for warming up before aerobic exercise. They burn around 10 calories per minute, with increased burn using wearable weights like a vest, ankle, or wrist weights",
+      "views": "980,544",
+      "likes": "22,479",
+      "duration": "4:01",
+      "video": "https://www.youtube.com/watch?v=CWpmIW6l-YA",
+     
+      "comments": [
+        {
+          "id": "35bba08b-1b51-4153-ba7e-6da76b5ec1b9",
+          "name": "Benefits",
+          "comment": "Jumping jacks are a full-body workout that engages almost all of your major muscles and improves your mobility, coordination, and hip strength. These are great for warming up before your aerobic exercise routine.",
+          "likes": 0,
+          "timestamp": 1691731062000
+        },
+        {
+          "id": "091de676-61af-4ee6-90de-3a7a53af7521",
+          "name": "Calorie Burn",
+          "comment": "Around 10 calories per minute. To increase your calorie burn, use wearable weights.",
+          "likes": 0,
+          "timestamp": 1691644662000
+        },
+        {
+          "id": "66b7d3c7-4023-47f1-a02c-520c9ca187a6",
+          "name": " Equipment (optional)",
+          "comment": " Weighted vest, ankle weights, wrist weights",
+          "likes": 1,
+          "timestamp": 1691558262000
+        }
+        ,
+        {
+          "id": "66b7d3c7-4023-47f1-a02c-520c9ca187a6",
+          "name": " Instructions",
+          "comment": " Stand up straight with your feet close together, your shoulders back, and your arms down at your sides. Keep your chest and head up, and always look forward. With your knees slightly bent, jump spreading your legs. As you jump, stretch your arms out wide and over your head. You'll want to land softly on the midsoles of your feet, which should be about shoulder-length apart. Reverse these steps to return to the starting position and repeat.",
+          "likes": 1,
+          "timestamp": 1691558262000
+        }
+      ]
+    },
+    {
+      "id": "c05b9a93-8682-4ab6-aff2-92ebb4bbfc14",
+      "title": "Jump squats",
+      "club": "Nourish Her Club",
+      "image": "https://img.freepik.com/free-photo/blonde-girl-squatting-stretching-hands_651396-2056.jpg?t=st=1719998628~exp=1720002228~hmac=d46a9ffb939e2a32d89f5144f0c1a44fb8b34dd00beeebab62183749342a40c3&w=740 ",
+      "description": "Jump squats target the lower body and core, enhancing stability and posture while burning fat in calves, thighs, and glutes. They burn about 10-14 calories per minute, with increased burn using a kettlebell and workout gloves for a secure grip. ",
+      "views": "809,635",
+      "likes": "400,058",
+      "duration": "12:26",
+      "video": "https://www.youtube.com/watch?v=CWpmIW6l-YA",
+      "timestamp": 1690089462000,
+      "comments": [
+        {
+          "id": "35bba08b-1b51-4153-ba7e-6da76b5ec1b9",
+          "name": "Benefits",
+          "comment": " Jump squats work out your lower body and engage your core while improving your stability and posture. This exercise is great for burning lower body fat in your calves, thighs, and glutes.",
+          "likes": 0,
+          "timestamp": 1691731062000
+        },
+        {
+          "id": "091de676-61af-4ee6-90de-3a7a53af7521",
+          "name": "Calorie Burn",
+          "comment": "Around 10-14 calories per minute. To increase your calorie burn, use a kettlebell and wear workout gloves for a secure grip.",
+          "likes": 0,
+          "timestamp": 1691644662000
+        },
+        {
+          "id": "66b7d3c7-4023-47f1-a02c-520c9ca187a6",
+          "name": " Equipment (optional)",
+          "comment": " Kettlebell, workout gloves",
+          "likes": 1,
+          "timestamp": 1691558262000
+        }
+        ,
+        {
+          "id": "66b7d3c7-4023-47f1-a02c-520c9ca187a6",
+          "name": " Instructions",
+          "comment": "Stand with your back straight and feet close together. Pull your shoulders and elbows back, and clasp your fists together in front of you. With your head up and looking forward, jump spreading your legs to land into a squat position. Your knees should make a right angle. Jump up and return to the starting position.",
+          "likes": 1,
+          "timestamp": 1691558262000
+        }
+      ]
+    },
+  
+    {
+      "id": "b6f35f03-7936-409b-bd2a-446bcc5f30e7",
+      "title": "Bicycle Crunches",
+      "club": "Nourish Her Club",
+      "image": "https://img.freepik.com/free-photo/full-shot-man-doing-exercise-gym_23-2149734698.jpg?t=st=1720001831~exp=1720005431~hmac=0761e6eb9063c9b65635cd4e0b5fde59b85f427bdcac6ee8c348608fc1f7ff7b&w=740",
+      "description": "Bicycle crunches engage multiple core muscles, toning and burning fat in your midsection. They burn about 3-4 calories per minute, with increased burn by holding a weighted medicine ball on your chest",
+      "views": "739,945",
+      "likes": "198,352",
+      "duration": "8:34",
+      "video": "https://www.youtube.com/watch?v=CWpmIW6l-YA",
+      "timestamp": 1676182662000,
+      "comments": [
+        {
+          "id": "35bba08b-1b51-4153-ba7e-6da76b5ec1b9",
+          "name": "Benefits",
+          "comment": "Bicycle crunches engage multiple muscle groups in your core and help tone and burn fat in your midsection.",
+          "likes": 0,
+          "timestamp": 1691731062000
+        },
+        {
+          "id": "091de676-61af-4ee6-90de-3a7a53af7521",
+          "name": "Calorie Burn",
+          "comment": " 3-4 calories per minute. To increase your calorie burn, hold a weighted medicine ball on your chest.",
+          "likes": 0,
+          "timestamp": 1691644662000
+        },
+        {
+          "id": "66b7d3c7-4023-47f1-a02c-520c9ca187a6",
+          "name": " Equipment (optional)",
+          "comment": "Yoga mat, medicine ball",
+          "likes": 1,
+          "timestamp": 1691558262000
+        }
+        ,
+        {
+          "id": "66b7d3c7-4023-47f1-a02c-520c9ca187a6",
+          "name": " Instructions",
+          "comment": "Lie on your back with your feet flat, knees bent, and hands behind your head. Engage your core, bring your right knee to your chest, and while keeping your left leg straight, lift it at a 45-degree angle. As your knee approaches your chest, lift your shoulder blades off the ground (be sure not to pull on your neck) and twist your upper body (keep your arms straight) to bring your left elbow to your knee. Repeat with the opposite knee and elbow.",
+          "likes": 1,
+          "timestamp": 1691558262000
+        }
+      ]
+    },
+    {
+      "id": "1b964601-a6dd-4fcc-b5f3-1000338c9557",
+      "title": "Push-up with leg raises",
+      "club": "Nourish Her Club",
+      "image": "https://img.freepik.com/free-photo/sports-girl-training-summer-park_1157-35595.jpg?t=st=1720011367~exp=1720014967~hmac=45321fe460fcc1a81b4b7b8ccf5a49f703e40df9cf7582688f946c412a974cf7&w=740",
+      "description": "Push-ups with leg raises target your chest, hips, and glutes, building strength and increasing metabolism to help burn calories faster. They burn around 8 calories per minute, with increased burn using wearable weights.",
+      "views": "72,342",
+      "likes": "8,785",
+      "duration": "45:59",
+      "video": "https://www.youtube.com/watch?v=CWpmIW6l-YA",
+      "timestamp": 1677910662000,
+      "comments": [
+        {
+          "id": "35bba08b-1b51-4153-ba7e-6da76b5ec1b9",
+          "name": "Benefits",
+          "comment": "Push-ups with leg raises target your chest, hips, and glutes, building strength and increasing metabolism to help burn calories faster. They burn around 8 calories per minute, with increased burn using wearable weights. ",
+          "likes": 0,
+          "timestamp": 1691731062000
+        },
+        {
+          "id": "091de676-61af-4ee6-90de-3a7a53af7521",
+          "name": "Calorie Burn",
+          "comment": "Around 8 calories per minute. To increase your calorie burn, use wearable weights.",
+          "likes": 0,
+          "timestamp": 1691644662000
+        },
+        {
+          "id": "66b7d3c7-4023-47f1-a02c-520c9ca187a6",
+          "name": " Equipment (optional)",
+          "comment": "Weighted vest, ankle weights",
+          "likes": 1,
+          "timestamp": 1691558262000
+        }
+        ,
+        {
+          "id": "66b7d3c7-4023-47f1-a02c-520c9ca187a6",
+          "name": " Instructions",
+          "comment": "Enter into a push-up position with your hands at shoulder-width and feet slightly apart. Engage your core to keep your back straight and slowly lower your body to the floor as you would doing a normal push-up. As you go down, engage your glutes and thighs to raise your right leg up as comfortably high as you can without bending your knee or twisting at the hips. Hold this position briefly then as you push your body up, slowly lower your leg to the starting position. Repeat with the left leg.",
+          "likes": 1,
+          "timestamp": 1691558262000
+        }
+      ]
+    },
+   
+    {
+      "id": "fc5261d1-58a0-47e4-9c19-2b7a1715fa1b",
+      "title": "Bear Crawls",
+      "club": "Nourish Her Club",
+      "image": "https://img.freepik.com/free-photo/full-shot-woman-stretching-grass_23-2148694238.jpg?t=st=1720011167~exp=1720014767~hmac=e846e232c72df745821b2568923799fc38edffdecb527450a58b3c32745dd9c5&w=740",
+      "description": "Bear crawls are a full-body workout that strengthens the core, enhances mobility, coordination, and raises your heart rate for effective fat burning. They burn around 7 calories per minute, with higher burn using a weighted vest or fitness sled. Start in a crawl position with knees below hips and hands under shoulders.",
+      "views": "252,796",
+      "likes": "4,905",
+      "duration": "7:31",
+      "video": "https://www.youtube.com/watch?v=CWpmIW6l-YA",
+      "timestamp": 1692767862000,
+      "comments": [
+        {
+          "id": "35bba08b-1b51-4153-ba7e-6da76b5ec1b9",
+          "name": "Benefits",
+          "comment": "Bear crawls are a full-body workout that really work your core and are amazing for strength building. This crawl will improve your mobility and coordination while getting your heart rate up and burning fat.",
+          "likes": 0,
+          "timestamp": 1691731062000
+        },
+        {
+          "id": "091de676-61af-4ee6-90de-3a7a53af7521",
+          "name": "Calorie Burn",
+          "comment": " Around 7 calories per minute. To increase your calorie burn, wear a weighted vest or use a fitness sled to pull weights behind you as you crawl.",
+          "likes": 0,
+          "timestamp": 1691644662000
+        },
+        {
+          "id": "66b7d3c7-4023-47f1-a02c-520c9ca187a6",
+          "name": " Equipment (optional)",
+          "comment": "Weighted vest, fitness sled, bumper weight",
+          "likes": 1,
+          "timestamp": 1691558262000
+        }
+        ,
+        {
+          "id": "66b7d3c7-4023-47f1-a02c-520c9ca187a6",
+          "name": " Instructions",
+          "comment": " Enter into a crawl position with your knees on the ground below your hips and your hands aligned directly below your shoulders. With your back straight, slowly raise your knees and balance on the midsoles of your feet. Engage your core and begin crawling by moving your right arm and left foot forward, then left arm and right foot. Keep your knees bent and avoid touching the ground with them.",
+          "likes": 1,
+          "timestamp": 1691558262000
+        }
+      ]
+    },
+    {
+      "id": "99478bed-6428-49ed-8eaa-f245a5414336",
+      "title": "Lateral Plank Walk",
+      "club": "Nourish Her Club",
+      "image": "https://img.freepik.com/premium-photo/close-up-diversity-sport-woman-training_23-2149174785.jpg?w=740",
+      "description": "The lateral plank walk is a full-body workout that enhances balance, coordination, and targets fat burn in the inner thighs and midsection while shaping the buttocks. It burns around 7 calories per minute, with increased burn using resistance bands on arms and legs. Start in a push-up position, hands and feet shoulder-width apart, core engaged.",
+      "views": "129,984",
+      "likes": "62,552",
+      "duration": "26:52",
+      "video": "https://www.youtube.com/watch?v=CWpmIW6l-YA",
+      "timestamp": 1698211062000,
+      "comments": [
+        {
+          "id": "35bba08b-1b51-4153-ba7e-6da76b5ec1b9",
+          "name": "Benefits",
+          "comment": "Lateral plank walk is a full-body workout that helps improve your balance and coordination. This crawl will help burn fat in your inner thighs, shape your butt, and reduce fat in your midsection.",
+          "likes": 0,
+          "timestamp": 1691731062000
+        },
+        {
+          "id": "091de676-61af-4ee6-90de-3a7a53af7521",
+          "name": "Calorie Burn",
+          "comment": "Around 7 calories per minute. To increase your calorie burn, use resistance bands around your arms and legs.",
+          "likes": 0,
+          "timestamp": 1691644662000
+        },
+        {
+          "id": "66b7d3c7-4023-47f1-a02c-520c9ca187a6",
+          "name": " Equipment (optional)",
+          "comment": "Resistance bands",
+          "likes": 1,
+          "timestamp": 1691558262000
+        }
+        ,
+        {
+          "id": "66b7d3c7-4023-47f1-a02c-520c9ca187a6",
+          "name": " Instructions",
+          "comment": "Enter into a push-up position with your hands and feet shoulder-width apart. Engage your core to keep your back straight and keep your head up, looking forward. Start with your right hand and foot, moving them simultaneously to the right while squeezing your thighs and glutes. After both your right hand and foot are on the ground, begin moving your left hand and foot over to the center of your body. Reverse and repeat.",
+          "likes": 1,
+          "timestamp": 1691558262000
+        }
+      ]
+    },
+    {
+      "id": "76ca28c0-7dea-4553-887f-8e5129a80fc3",
+      "title": "Mountain Climbers",
+      "club": "Nourish Her Club",
+      "image": "https://img.freepik.com/free-photo/side-view-stretching-woman_23-2147778334.jpg?t=st=1720011822~exp=1720015422~hmac=b72312a4a54722dd91402ca7fb11c110216b62e2e3cdd3e08f7a1635b0d08cb7&w=740",
+      "description": "Mountain climbers engage multiple muscle groups, including upper body, core, and legs, aiding in burning lower belly fat while toning buttocks and thighs. They burn around 10 calories per minute; adding a resistance band around feet boosts calorie burn. ",
+      "views": "3,092,284",
+      "likes": "75,985",
+      "duration": "49:20",
+      "video": "https://www.youtube.com/watch?v=CWpmIW6l-YA",
+      "timestamp": 1701497862000,
+      "comments": [
+        {
+          "id": "35bba08b-1b51-4153-ba7e-6da76b5ec1b9",
+          "name": "Benefits",
+          "comment": "Mountain climbers engage multiple muscle groups in your body including your upper body, core, and legs. This aerobic exercise will help burn lower belly fat and shape your butt and thighs.",
+          "likes": 0,
+          "timestamp": 1691731062000
+        },
+        {
+          "id": "091de676-61af-4ee6-90de-3a7a53af7521",
+          "name": "Calorie Burn",
+          "comment": " Around 10 calories per minute. To increase your calorie burn, wrap a resistance band around your feet.",
+          "likes": 0,
+          "timestamp": 1691644662000
+        },
+        {
+          "id": "66b7d3c7-4023-47f1-a02c-520c9ca187a6",
+          "name": " Equipment (optional)",
+          "comment": "Yoga mat or sliders, resistance bands",
+          "likes": 1,
+          "timestamp": 1691558262000
+        }
+        ,
+        {
+          "id": "66b7d3c7-4023-47f1-a02c-520c9ca187a6",
+          "name": " Instructions",
+          "comment": " Enter into a push-up position with your hands at shoulder-width and feet slightly apart. Engage your core to keep your back straight and bring your right knee towards the center of your torso. Return to the starting position and quickly switch to your left knee. If you are exercising on a hard floor, you want to invest in a yoga mat or sliders for your feet.",
+          "likes": 1,
+          "timestamp": 1691558262000
+        }
+      ]
+    },
+    {
+        "id": "76ca28c0-7dea-4553-887f-8e5129a80fc3",
+        "title": "Donkey Kicks",
+        "club": "Nourish Her Club",
+        "image": "https://img.freepik.com/free-photo/woman-practicing-advanced-yoga-against-dark-urban-wall_1157-35859.jpg?t=st=1720012027~exp=1720015627~hmac=1abbc250b2754524cf418747da2e7b5d4acae6154849fe246e86fef8885f0392&w=740",
+        "description": "Donkey kicks target your glutes, engaging core and shoulders for stability and toning. This aerobic exercise burns 5-10 calories per minute; securing a dumbbell in your knee boosts calorie burn.",
+        "views": "3,092,284",
+        "likes": "75,985",
+        "duration": "49:20",
+        "video": "https://www.youtube.com/watch?v=CWpmIW6l-YA",
+        "timestamp": 1701497862000,
+        "comments": [
+          {
+            "id": "35bba08b-1b51-4153-ba7e-6da76b5ec1b9",
+            "name": "Benefits",
+            "comment": "Donkey kicks primarily engage your glutes while also working your core and shoulders. This aerobic exercise is excellent for toning your butt and improving your stability.",
+            "likes": 0,
+            "timestamp": 1691731062000
+          },
+          {
+            "id": "091de676-61af-4ee6-90de-3a7a53af7521",
+            "name": "Calorie Burn",
+            "comment": " 5-10 calories per minute. To increase your calorie burn, secure a dumbbell in your knee when you lift.",
+            "likes": 0,
+            "timestamp": 1691644662000
+          },
+          {
+            "id": "66b7d3c7-4023-47f1-a02c-520c9ca187a6",
+            "name": " Equipment (optional)",
+            "comment": "Yoga mat, dumbbell",
+            "likes": 1,
+            "timestamp": 1691558262000
+          }
+          ,
+          {
+            "id": "66b7d3c7-4023-47f1-a02c-520c9ca187a6",
+            "name": " Instructions",
+            "comment": "Get on your hands and knees. Your hands should be aligned with your shoulders and your knees aligned with your hips. Engage your core to keep your back straight and start with your right leg. Keeping your leg at a 90-degree angle, kick it as high as you comfortably can behind you and slowly bring it back down. Repeat for desired repetitions, then switch to the opposite leg to complete a set.",
+            "likes": 1,
+            "timestamp": 1691558262000
+          }
+        ]
+      }
+    
+    
+    
+    
+   
+  ]
+
+
+  
